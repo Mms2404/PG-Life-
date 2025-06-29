@@ -1,3 +1,13 @@
+
+ 
+ 
+ 
+ 
+
+https://github.com/user-attachments/assets/d2d1efd6-369d-43e9-a10f-e3ff2c6e6488
+
+
+ 
  PG-Life is a sample website thats useful for college students to search and book rooms for their stay with during their study at different locations .
  Make sure to turn on your Xampp server (Apache and Mysql modules).
  Also create a database named 'pglife' .
